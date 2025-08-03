@@ -3,9 +3,9 @@
 This is the **React + Vite** frontend of the FlavorAI web app. It provides a sleek, responsive user interface to browse, create, and manage AI-powered recipes.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- ⚛ React + TypeScript
+-  React + TypeScript
 -  Vite
 -  Tailwind CSS
 -  React Router
