@@ -27,14 +27,12 @@ cd flavorai-frontend
 ```bash
 npm install
 ```
-### 3. Create environment file
-```bash
-cp .env.example .env
-```
-4. Run development server
+3. Run development server
 ```bash
 npm run dev
 ```
+
+Recommended to run whole project with Docker Compose (Github repo in profile)
 
 ## OPTIONAL
 
