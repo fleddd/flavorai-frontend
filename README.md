@@ -9,6 +9,7 @@ This is the **React + Vite** frontend of the FlavorAI web app. It provides a sle
 -  Vite
 -  Tailwind CSS
 -  React Router
+-  React Query
 -  React Hook Form
 -  Axios (with token-based interceptors)
 -  Material UI
