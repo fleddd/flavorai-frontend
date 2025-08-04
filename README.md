@@ -44,7 +44,8 @@ docker run -p 5173:5173 flavorai-frontend
 ```
 
 
-Key feature is Axios Interceptors which allows to get quitly Authorization JWT tokens (access+refresh).
+## Key feature
+Axios Interceptors which allows to get quitly Authorization JWT tokens (access+refresh).
 
 ## Known issues:
 - First slow load due to bundle size. Used components of Material UI library for faster development but increased bundle size. 
